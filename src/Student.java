@@ -10,4 +10,11 @@ public class Student {
             this.Age = age;
         this.BirthDate =asdasd;
     }
+
+
+
+
+    public void SayHello(){
+        System.out.println("Hello");
+    }
 }
